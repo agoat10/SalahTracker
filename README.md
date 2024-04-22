@@ -64,7 +64,7 @@ Distributed under the MIT License. See LICENSE for more information.
 ### Contact
 Ali Hussain - ali.hussain@edu.sait.ca
 
-Project Link: 
+Project Link: https://github.com/agoat10/SalahTracker.git
 
 ### Acknowledgements
 - Next.js Documentation
